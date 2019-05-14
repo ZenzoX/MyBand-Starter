@@ -16,7 +16,8 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | U0003 | Gebruiker | inhoud opzoeken | gemakkelijk de inhoud kan bekijken |  |  | TODO |
 | U0004 | Gebruiker | inhoud bekijken | de inhoud kan zien |  |  | TODO |
 | U0005 | Gebruiker | een post upvoten | de beste posts bovenaan staan |  |  | TODO |
-| U0006 | Gebruiker |  |  |  |  | TODO |
+| U0006 | Gebruiker | kunnen inloggen | op mijn account kan |  |  | TODO |
+| U0007 | Gebruiker |  |  |  |  | TODO |
 
 
 ###### Geregistreerde gebruikers
@@ -38,11 +39,10 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | U0004 | Admin | de website opbouwen met het MVC-principe | duidelijke code heb |  |  | TODO |
 | U0005 | Admin | een wachtwoord hebben op de CMS | alleen zelf de pagina kan berwerken |  |  | TODO |
 | U0006 | Admin | inhoud kunnen verwijderen | goede orde heb |  |  | TODO |
-| U0007 | Admin |  |  |  |  | TODO |
-| U0008 | Admin |  |  |  |  | TODO |
-| U0009 | Admin |  |  |  |  | TODO |
+| U0007 | Admin | inhoud kunnen bewerken | fouten kan verbeteren |  |  | TODO |
+| U0008 | Admin | Accounts kunnen verwijderen | slechte accounts kan verwijderen |  |  | TODO |
+| U0009 | Admin | inhoud bij een post plaatsen | een duidelijke post heb |  |  | TODO |
 | U0010 | Admin |  |  |  |  | TODO |
-| U0011 | Admin |  |  |  |  | TODO |
 
 
 
