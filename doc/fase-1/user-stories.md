@@ -23,9 +23,9 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
-| U0002 | Geregistreerde gebruiker |  |  |  |  | TODO |
-| U0003 | Geregistreerde gebruiker |  |  |  |  | TODO |
-| U0004 | Geregistreerde gebruiker |  |  |  |  | TODO |
+| U0002 | Geregistreerde gebruiker | de posts zien die ik heb geliked | de leukste posts kan zien |  |  | TODO |
+| U0003 | Geregistreerde gebruiker | een profiel pagina hebben | een duidelijk overzicht heb van mijn account |  |  | TODO |
+| U0004 | Geregistreerde gebruiker | een profiel foto kiezen | een leuke profiel foto heb |  |  | TODO |
 | U0005 | Geregistreerde gebruiker |  |  |  |  | TODO |
 
 
