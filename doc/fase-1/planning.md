@@ -34,13 +34,13 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 3
 |         | ma 20/5 | di 21/5 | wo 22/5 | do 23/5 | vr 24/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | | | | | |  |
-| 2de uur  | | | | | |  |
+| 1ste uur | | | | | | U0004 |
+| 2de uur  | | | | U0004| |  |
 | 3de uur  | | | | | |  |
 | 4de uur  | | | | | |  |
-| 5de uur  | | | | | |  |
-| 6de uur  | | | | | |  |
-| 7de uur  | | | | | |  |
+| 5de uur  | | | | | | U0004 |
+| 6de uur  | | | U0004| | | U0002 |
+| 7de uur  | | | U0004| | | U0002 |
 | 8de uur  | | | | | |  |
 
 ##### WEEK 4
