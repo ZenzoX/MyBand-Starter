@@ -24,10 +24,10 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
-| U0002 | Geregistreerde gebruiker | de posts zien die ik heb geliked | de leukste posts kan zien |  | Should have | TODO |
-| U0003 | Geregistreerde gebruiker | een profiel pagina hebben | een duidelijk overzicht heb van mijn account |  | Could have | TODO |
-| U0004 | Geregistreerde gebruiker | een profiel foto kiezen | een leuke profiel foto heb |  | Could have | TODO |
-| U0005 | Geregistreerde gebruiker |  |  |  |  | TODO |
+| G0002 | Geregistreerde gebruiker | de posts zien die ik heb geliked | de leukste posts kan zien |  | Should have | TODO |
+| G0003 | Geregistreerde gebruiker | een profiel pagina hebben | een duidelijk overzicht heb van mijn account |  | Could have | TODO |
+| G0004 | Geregistreerde gebruiker | een profiel foto kiezen | een leuke profiel foto heb |  | Could have | TODO |
+| G0005 | Geregistreerde gebruiker |  |  |  |  | TODO |
 
 
 ##### Admins
@@ -35,14 +35,14 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | B0001 | Admin | een overzicht van alle gebruikers | zodat ik deze kan beheren | | Must have | TODO |
 | B0002 | Admin | een account kunnen disablen | zodat ik controle heb over wie er in kan loggen | | Must have | TODO |
-| U0003 | Admin | alle inhoud uit de database halen | gemakkelijk de inhoud van de pagina kan veranderen |  | Must have | TODO |
-| U0004 | Admin | de website opbouwen met het MVC-principe | duidelijke code heb |  | Must have | TODO |
-| U0005 | Admin | een wachtwoord hebben op de CMS | alleen zelf de pagina kan berwerken |  | Must have | TODO |
-| U0006 | Admin | inhoud kunnen verwijderen | goede orde heb |  | Must have | TODO |
-| U0007 | Admin | inhoud kunnen bewerken | fouten kan verbeteren |  | Should have | TODO |
-| U0008 | Admin | Accounts kunnen verwijderen | slechte accounts kan verwijderen |  | Should have | TODO |
-| U0009 | Admin | inhoud bij een post plaatsen | een duidelijke post heb |  | Must have | TODO |
-| U0010 | Admin |  |  |  |  | TODO |
+| B0003 | Admin | alle inhoud uit de database halen | gemakkelijk de inhoud van de pagina kan veranderen |  | Must have | TODO |
+| B0004 | Admin | de website opbouwen met het MVC-principe | duidelijke code heb |  | Must have | TODO |
+| B0005 | Admin | een wachtwoord hebben op de CMS | alleen zelf de pagina kan berwerken |  | Must have | TODO |
+| B0006 | Admin | inhoud kunnen verwijderen | goede orde heb |  | Must have | TODO |
+| B0007 | Admin | inhoud kunnen bewerken | fouten kan verbeteren |  | Should have | TODO |
+| B0008 | Admin | Accounts kunnen verwijderen | slechte accounts kan verwijderen |  | Should have | TODO |
+| B0009 | Admin | inhoud bij een post plaatsen | een duidelijke post heb |  | Must have | TODO |
+| B0010 | Admin |  |  |  |  | TODO |
 
 
 
