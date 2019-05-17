@@ -11,7 +11,7 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
+| U0001 | Gebruiker | de laatste nieuwsberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
 | U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
 | U0003 | Gebruiker | inhoud opzoeken | gemakkelijk de inhoud kan bekijken |  | Must have | TODO |
 | U0004 | Gebruiker | inhoud bekijken | de inhoud kan zien |  | Must have | TODO |
