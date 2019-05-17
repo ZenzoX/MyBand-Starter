@@ -17,8 +17,8 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | U0004 | Gebruiker | inhoud bekijken | de inhoud kan zien |  | Must have | TODO |
 | U0005 | Gebruiker | een post upvoten | de beste posts bovenaan staan |  | Could have | TODO |
 | U0006 | Gebruiker | kunnen inloggen | op mijn account kan |  | Must have | TODO |
-| U0007 | Gebruiker |  |  |  |  | TODO |
-
+| U0007 | Gebruiker | de agenda kunnen zien | op de hoogte ben van de agenda |  |  | TODO |
+| U0008 | Gebruiker |  |  |  |  | TODO |
 
 ###### Geregistreerde gebruikers
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
