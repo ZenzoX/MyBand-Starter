@@ -56,7 +56,7 @@ Deze fase duurt 3 weken
 
 [Backlog]: </doc/fase-1/backlog.md>
 [TO]: </doc/fase-2/technisch-ontwerp.md>
-[Sprint Planning]: </doc/fase-1/backlog.md>
+[Sprint Planning]: </doc/fase-1/sprint.md>
    
 #### Fase 3: Testen en opleveren van het project
 
