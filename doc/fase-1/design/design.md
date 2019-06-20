@@ -9,5 +9,5 @@ ___
 
 **Afbeelding 2**  
 Agenda pagina
-![Afbeelding 1](agenda-1.PNG)
+![Afbeelding 1](agenda.PNG)
 ___
