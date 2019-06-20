@@ -42,7 +42,7 @@ Deze fase duurt 3 weken
 [User stories]: <doc/fase-1/user-stories.md>
 [Design]: <doc/fase-1/design/design.md/>
 [FO]: </doc/fase-1/Functioneel ontwerp.rp>
-[Flow]: <doc/fase-1/flow.svg>
+[Flow]: <doc/fase-1/flowchart.PNG>
 [Urenschatting]: <doc/fase-1/urenschatting.md>
 [axShare]: <http://w2d1bw.axshare.com/>
 
