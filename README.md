@@ -63,8 +63,8 @@ Deze fase duurt 3 weken
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
 | B1-K3-W2 Link naar de live omgeving                        |  DONE |  <https://zenzo-arian.com/myBand/public/> |
-| B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
-| B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
+| B1-K3-W2 Gebruikersdocumentatie / instructie               |  DONE |  [Gebruikers documentatie] |
+| B1-K3-W3 Evaluatie                                         |  DONE |  [Evaluatie] |
 
 [Gebruikers documentatie]: <doc/fase-3/gebruikersdocumentatie.md>
 [Evaluatie]: <doc/fase-3/evaluatie.md>
