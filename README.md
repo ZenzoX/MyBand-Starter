@@ -54,7 +54,7 @@ Deze fase duurt 3 weken
 | B1-K1-W2 Sprint planning 1, 2 en 3                | TODO | [Trello] / [Trello Tips]             | Link naar Trello met Sprint planningen | |
 | B1-K1-W3 Technisch Ontwerp                        | DONE | [TO]                                 | Markdown of Word/RTF| |
 
-[Backlog]: </doc/fase-2/backlog.md>
+[Backlog]: </doc/fase-1/backlog.md>
 [TO]: </doc/fase-2/technisch-ontwerp.md>
 [Trello]: <https://trello.com/b/He6JX83u/myband-sprints>
 [Trello Tips]: <https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work>
