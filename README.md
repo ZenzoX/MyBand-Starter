@@ -50,14 +50,13 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K1-W2 Product backlog                          | TODO | [Backlog]                            | Link naar Trello met Sprint planningen | |
-| B1-K1-W2 Sprint planning 1, 2 en 3                | TODO | [Trello] / [Trello Tips]             | Link naar Trello met Sprint planningen | |
+| B1-K1-W2 Product backlog                          | DONE | [Backlog]                            | Link naar Trello met Sprint planningen | |
+| B1-K1-W2 Sprint planning 1, 2 en 3                | DONE | [Sprint Planning]          | Link naar Trello met Sprint planningen | |
 | B1-K1-W3 Technisch Ontwerp                        | DONE | [TO]                                 | Markdown of Word/RTF| |
 
 [Backlog]: </doc/fase-1/backlog.md>
 [TO]: </doc/fase-2/technisch-ontwerp.md>
-[Trello]: <https://trello.com/b/He6JX83u/myband-sprints>
-[Trello Tips]: <https://blog.trello.com/how-to-scrum-and-trello-for-teams-at-work>
+[Sprint Planning]: </doc/fase-1/SprintPLan.md>
    
 #### Fase 3: Testen en opleveren van het project
 
