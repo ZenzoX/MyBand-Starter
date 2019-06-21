@@ -1,5 +1,5 @@
 ## Titel van jouw website
-https://zenzo-arian.com/myBand/public/ is een website van Zenzo X. Arian waar gebruikers leuke en informatieve video's kunnen bekijken bedoeld voor jongeren en ouderen.
+https://zenzo-arian.com/myBand/public/ is een website van Zenzo X. Arian genaamd: SmartTube, waar gebruikers leuke en informatieve video's kunnen bekijken bedoeld voor jongeren en ouderen.
 De website is enigszins te vergelijken met youtube of TED talks maar toch anders omdat mijn website precieze en korte video's heeft die allemaal geanimeerd  zijn.
 
 ### Uniek aan dit concept is: 
