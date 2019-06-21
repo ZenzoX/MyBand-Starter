@@ -1,0 +1,175 @@
+body {background-color: #222222;font-family:arial;color:#ffffff;}
+
+.uploadImage{
+  width: 4em;
+  border-radius: 100px;
+}
+
+.contentBox{
+  transition: 0.3s;
+  margin: 0 auto;
+  border: solid;
+  border-width: 1px;
+  width: 50em;
+  height: 20em;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr; */
+  padding-top: 8px;
+  margin-top: 3em;
+  margin-bottom: -2em;
+  border-radius: 5px;
+  background-color: #222222;
+}
+
+.contentBox:hover{
+  transition: 0.3s;
+  height: 26em;
+}
+
+.uploadCon{
+  margin-top: 1em;
+  margin-left: -30em;
+  visibility: hidden;
+  z-index: -1;
+  opacity: 0;
+  transition: visibility 0s 0.07s, opacity 0.07s linear;
+}
+
+
+.contentBox:hover .uploadCon{
+  visibility: visible;
+  opacity: 1;
+  transition: opacity .5s linear;
+}
+
+.headCon{
+  float: right;
+  width: 9em;
+  margin-top: -14em;
+  margin-right: .6em;
+}
+
+.desCon{
+  float: right;
+  width: 10em;
+  height: 11em;
+  margin-top: -12em;
+  margin-right: 2.3em;
+}
+
+.uploadTextCon{
+  margin-top: -3em;
+  margin-left: 5em;
+}
+
+.tagCon{
+  float: right;
+}
+
+.line{
+  float: right;
+  margin-top: -15.4em;
+  margin-right: 2.7em;
+}
+
+@media only screen and (max-width: 900px) and (min-width: 760px) {
+  iframe{
+    width: 30em;
+    height: 17em;
+  }
+  .headCon{
+    float: left;
+    width: 19em;
+    margin-top: -15em;
+    margin-left: 4px;
+
+  }
+  .videoCon{
+    margin-top: 3em;
+  }
+  .line{
+    display: none;
+  }
+  .uploadTextCon{
+    display: none;
+  }
+  .desCon{
+    display: none;
+  }
+  .contentBox{
+    width: 30em;
+    height: 20.2em;
+  }
+  .contentBox:hover{
+    height: 20.2em;
+  }
+}
+@media only screen and (max-width: 760px) and (min-width: 446px) {
+
+  iframe{
+    width: 25em;
+    height: 14em;
+  }
+  .headCon{
+    float: left;
+    width: 16em;
+    margin-top: -13em;
+    margin-left: 4px;
+  }
+  .videoCon{
+    margin-top: 3em;
+  }
+  .line{
+    display: none;
+  }
+  .uploadTextCon{
+    display: none;
+  }
+  .desCon{
+    display: none;
+  }
+  .contentBox{
+    width: 25em;
+    height: 17.2em;
+  }
+  .contentBox:hover{
+    height: 17.2em;
+  }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 445px){
+
+  iframe{
+    width: 17em;
+    height: 10em;
+  }
+  .headCon{
+    float: left;
+    width: 16em;
+    margin-top: -14.5em;
+    margin-left: 4px;
+  }
+  .videoCon{
+    margin-top: 3em;
+  }
+  .line{
+    display: none;
+  }
+  .uploadTextCon{
+    display: none;
+  }
+  .desCon{
+    display: none;
+  }
+  .contentBox{
+    width: 16.99em;
+    height: 13.1em;
+  }
+  .contentBox:hover{
+    height: 13.1em;
+  }
+  h2{
+    font-size: 1em;
+  }
+}

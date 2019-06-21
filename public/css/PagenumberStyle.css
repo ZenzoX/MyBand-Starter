@@ -1,0 +1,46 @@
+.pageItem1 {
+  display: block;
+}
+
+.ButtonPage {
+  text-align: center;
+  border: solid;
+  border-radius: 3px;
+  width: 2em;
+  height: auto;
+  float: left;
+  cursor: pointer;
+  margin-right: .3em;
+  margin-top: .3em;
+}
+
+.buttonsDiv {
+  margin: 0 auto;
+  display: block;
+  height: 3em;
+  width: 26em;
+  padding-left: 7px;
+  padding-top: .6em;
+}
+
+.ButtonPage:hover {
+  transform: scale(1.2);
+}
+
+.ButtonPage:active {
+  background-color: #5E5E5E;
+}
+
+.pagePos {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  padding-top: 2em;
+  margin-top: 1em;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 445px){
+.buttonsDiv{
+  width: 100%;
+}
+}

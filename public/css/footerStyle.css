@@ -1,0 +1,35 @@
+.Thefooter{
+  margin: -1em;
+  margin-top: 1em;
+border: 1px solid white;
+border-width: 1px 0 0 0;
+}
+
+.Fcenter{
+  margin: 0 auto;
+  max-width: 52.4em;
+  margin-top: .6em;
+}
+
+.Fleft{
+  float: left;
+  padding-left: 15px;
+  margin-right: -15px;
+}
+
+.Fleft p{
+  margin-bottom: -8px;
+}
+.Fleft p:last-of-type{
+  margin-bottom: 4px;
+}
+
+
+.Fleft a{
+  margin-top: 10px;
+  color: white;
+  padding-bottom: 25px;
+}
+.Fleft a:hover{
+  color: #5E5E5E;
+}

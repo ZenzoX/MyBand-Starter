@@ -1,0 +1,16 @@
+.channelImg{
+  margin-top: 1em;
+  width: 100%;
+  max-width: 10em;
+  border-radius: 100px;
+}
+
+
+.channelAround{
+  text-align: center;
+  margin-top: 2em;
+}
+
+.channelh2 h2{
+  text-align: center;
+}
