@@ -97,7 +97,7 @@ if ($item == $maxPage) {
 
             echo "<div class='uploadTextCon'>";
 
-            echo "No uploader";
+            echo "No uploader <br>00-00-0000";
             echo "<div class='tagCon'>";
             echo "Upvote: " . "0" . "<br>";
             echo "Tags: " . "Tag1". ", " . "Tag2" . ", " . "Tag3";
